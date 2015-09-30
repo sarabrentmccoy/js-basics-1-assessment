@@ -51,6 +51,7 @@ weather = "sunny";
 weather === "sunny";
 ```
 
+
 What are the values of these expressions?  Explain your answers.
 
 <!-- Replace this comment with your answer -->
