@@ -1,5 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
+
 # Assessment for JavaScript Fundamentals
 
 You have 30 minutes
